@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Saturn Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![adex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
